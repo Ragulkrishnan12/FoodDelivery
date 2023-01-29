@@ -1,0 +1,16 @@
+.namebox {
+    margin: 2rem solid black;
+    background-color: rgb(243, 233, 233);
+    padding: 10px;
+    border: 20px;
+    text-align: center;
+}
+
+.ttt {
+    text-align: center;
+    justify-content: center;
+}
+
+.s1 {
+    text-align: end;
+}

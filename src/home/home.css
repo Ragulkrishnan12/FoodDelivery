@@ -1,0 +1,20 @@
+.RRR {
+    display: flex;
+}
+
+.jst-e {
+    justify-content: end;
+}
+
+.flex {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+jst {
+    justify-content: space-between;
+}
+
+.pad {
+    padding: 10px;
+}

@@ -1,0 +1,9 @@
+.listcont {
+    background-color: darkgray;
+    width: 100%;
+    height: 300px;
+}
+
+.pad {
+    padding: 30px;
+}
